@@ -1,0 +1,7 @@
+faster-whisper>=1.2.1
+transformers>=5.14.1
+torch>=2.13.0
+sentencepiece>=0.2.2
+piper-tts>=1.6.0
+pydub>=0.25.1
+audioop-lts>=0.2.2; python_version >= "3.13"

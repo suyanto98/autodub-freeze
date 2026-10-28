@@ -1,0 +1,22 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Runtime artifacts
+*.log
+logs/
+.env
+.env.*
+
+# Large data / media
+models/
+videos_in/
+videos_out/
+output/
+*.mp4
+*.mkv
+*.mp3
+*.wav
+*.pdf
